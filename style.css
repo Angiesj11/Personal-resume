@@ -1,0 +1,89 @@
+body {
+  background:#e9e98c;
+}
+h3{
+font-weight: bold;
+color:saddlebrown;
+text-align:left;
+font-size:16px;
+
+}
+
+h4{
+  font-weight: bold;
+  color:saddlebrown;
+  text-align:right;
+  font-size:16px;
+}
+
+h1 {
+  font-weight: bold;
+  color: white;
+}
+
+img{
+  float: right;
+  margin: 10px;
+  border-color: white;
+  border-width: 10px;
+  border-style:dotted;
+  border-radius: 10px;
+  height:250px;
+}
+
+p {
+  color:saddlebrown;
+  font-size: 14px;
+  text-align: center;
+
+  
+}
+.second{
+  float: left;
+}
+.links {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.third{
+  float: right;
+
+}
+.fourth{
+  float: left;
+
+}
+
+.fifth{
+  float: right;
+}
+
+.sixth{
+  float: left;
+}
+li{
+  color: saddlebrown;
+}
+
+a:hover {
+  color:saddlebrown;
+  font-size: 24px;
+  text-decoration-style:dotted;
+}
+
+/* CHECK ME OUT! link special styling */
+a:active {
+  color:saddlebrown;
+  text-decoration-color:white;
+
+}
+
+/* basic link style */
+a {
+  font-family:sans-serif;
+  letter-spacing: 1px;
+  font-size: 18px;
+  color:white;
+  margin: 10px;
+}
